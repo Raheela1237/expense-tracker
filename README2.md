@@ -63,7 +63,7 @@ CodeNova Batch 01 — Python Track
 ![Filter](Filter.png.png)
 
 ### 4. UPDATE 
-![Update](update.png.png)
+![Update](update.png)
 
 ### 5. CSV Export
 ![Export](Export_csv.png.png)
