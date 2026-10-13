@@ -63,10 +63,10 @@ CodeNova Batch 01 — Python Track
 ![Filter](Filter.png.png)
 
 ### 4. UPDATE 
-![Update](update.png)
+![Update](update.png.png)
 
 ### 5. CSV Export
-![Export](Export_csv.png.png)
+![Export](Export_csv.png)
 
 ### 6. Validation Error
 ![Validation](validation.png.png)
